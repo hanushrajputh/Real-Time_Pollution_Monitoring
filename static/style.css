@@ -1,0 +1,3 @@
+body { font-family: Arial, sans-serif; }
+h1 { color: #333; text-align: center; }
+#map { width: 100%; height: 500px; margin: 0 auto; border: solid 1px #ccc; }
